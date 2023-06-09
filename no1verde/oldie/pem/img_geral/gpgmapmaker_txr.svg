@@ -7,7 +7,7 @@
    width="1200"
    height="400"
    viewBox="0 0 1200 400"
-   sodipodi:docname="skmapmaker_txr.svg"
+   sodipodi:docname="gpgmapmaker_txr.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    inkscape:export-filename="skmapmaker_txr.png"
    inkscape:export-xdpi="96"
@@ -30,8 +30,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.53833333"
-     inkscape:cx="613.0031"
-     inkscape:cy="208.04954"
+     inkscape:cx="579.56657"
+     inkscape:cy="209.90712"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -62,8 +62,8 @@
     <text
        xml:space="preserve"
        style="font-size:41.9122px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';fill:#ffffff;fill-opacity:1;stroke:#006600;stroke-width:1.53458;stroke-opacity:1;paint-order:stroke fill markers"
-       x="212.09421"
-       y="262.51892"
+       x="31.347622"
+       y="246.55626"
        id="text699"
        inkscape:export-filename=".\xp-txt.png"
        inkscape:export-xdpi="96"
@@ -71,8 +71,8 @@
        transform="scale(1.0271084,0.97360707)"><tspan
          sodipodi:role="line"
          id="tspan697"
-         x="212.09421"
-         y="262.51892"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:167.649px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:1.53458">sk-maker</tspan></text>
+         x="31.347622"
+         y="246.55626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:167.649px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:1.53458">gpgmapfiller</tspan></text>
   </g>
 </svg>
